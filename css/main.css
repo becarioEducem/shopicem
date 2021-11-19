@@ -1,0 +1,9 @@
+/*Custom CSS (Override Bootstrap Styles)*/
+th,td{
+    border:none!important;
+}
+.table{
+    border: 5px solid rgba(0, 128, 255, 0.9)!important; 
+    border-spacing: 0px; 
+    border-collapse: separate;
+}
