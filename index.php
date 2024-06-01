@@ -20,7 +20,7 @@
     <link rel="icon" href="./img/icon.jpg" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
     <link rel="stylesheet" href="./css/main.css" />
-    <title>Shopicem - Examen Parcial M9UF1 - ASIX2</title>
+    <title>Shopicem - Examen Recuperació M9 - ASIX2</title>
 </head>
 <body>
     <h1 class="m-5">Shopicem</h1>
